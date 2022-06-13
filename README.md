@@ -1,5 +1,4 @@
-# This is Nello
-# This is iOS App Developer
+# Hello Nello
 
 <!---
 herrenNello/herrenNello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
