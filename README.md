@@ -9,8 +9,8 @@
  
 
   
-<h2 align="center"><b>Resume</b></h2>
-<a href="https://www.notion.so/iOS-App-Developer-67e94b2bcba8437fb79accc8b06c1b87" target="_blank"><img src="https://img.shields.io/badge/Resume-FA7343?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<!-- <h2 align="center"><b>Resume</b></h2>
+<a href="https://www.notion.so/iOS-App-Developer-67e94b2bcba8437fb79accc8b06c1b87" target="_blank"><img src="https://img.shields.io/badge/Resume-FA7343?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a> -->
   
 
 <br/>
