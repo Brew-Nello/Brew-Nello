@@ -46,8 +46,5 @@
   ![Nello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brew-Nello&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
 
  </br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brew-Nello&theme=dark&layout=compact)
-
-
  </br>
