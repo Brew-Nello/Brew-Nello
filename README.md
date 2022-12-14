@@ -43,7 +43,7 @@
  
 <h3 align="center"><b>✒️ Git Stats ✒️</b></h3>
  
-  ![Nello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brew-Nello&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
+  ![Nello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brew-Nello&show_icons=true&theme=dark)
 
  </br>
  
