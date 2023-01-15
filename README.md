@@ -43,10 +43,10 @@
  
 <h3 align="center"><b>✒️ Git Stats ✒️</b></h3>
  
-  ![Nello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brew-Nello&show_icons=true&theme=dark)
+<--  ![Nello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brew-Nello&show_icons=true&theme=dark) -->
 
  </br>
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brew-Nello&theme=dark&layout=compact&hide=java)
+<--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brew-Nello&theme=dark&layout=compact&hide=java) -->
  
  </br>
