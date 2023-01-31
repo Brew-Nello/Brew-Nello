@@ -18,10 +18,10 @@
  
 <h3 align="center"><b>😎 Sub Skils 😎</b></h3>
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/swiftUI-FA7343?style=for-the-badge&logo=swiftUI&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/swiftUI-000000?style=for-the-badge&logo=swiftUI&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=Combine&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-B7178C?style=for-the-badge&logo=Dart&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart&logoColor=FFFFFF"/></a>
  
  <br/>  
 <br/>
