@@ -9,16 +9,21 @@
 <br/>
 <br/>
   
-<h3 align="center"><b>😎 Skils 😎</b></h3>
+<h3 align="center"><b>😎 Main Skils 😎</b></h3>
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/swiftui-000000?style=for-the-badge&logo=swift&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/RX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/RXSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF"/></a>
-  <br/>
+ 
+<h3 align="center"><b>😎 Sub Skils 😎</b></h3>
 
-  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/swiftUI-FA7343?style=for-the-badge&logo=swiftUI&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=Combine&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-B7178C?style=for-the-badge&logo=Dart&logoColor=FFFFFF"/></a>
+ 
+ <br/>  
 <br/>
  
 
